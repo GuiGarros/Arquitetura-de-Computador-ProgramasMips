@@ -1,2 +1,2 @@
-# Arquitetura-de-Computador-ProgramasMips
-Programas Assembly para o Processador Mips
+# Assembly-Mips
+Programas Assembly para o Processador Mips.
